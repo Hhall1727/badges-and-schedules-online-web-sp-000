@@ -8,5 +8,6 @@ end
 
 def assign_rooms(attendees)
   new_arr = []
-  attendees.each_with_index do 
+  attendees.each_with_index do | name, i |
+    
 end
